@@ -6,19 +6,21 @@ const Profile = () => {
 
         <a>Main content</a>
 
-        <div className="AvaDescription">
+        <div className="avaDescription">
 
         </div>
 
-        <div className="MyPosts">
+        <div className="myPosts">
+        <li>Новый пост!</li>
 
         </div>
 
-        <div className="NewPost">
+        <div className="newPost">
+            <li>Новый пост!</li>
 
         </div>
 
-        
+
 
     </div>
 }
