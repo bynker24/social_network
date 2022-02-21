@@ -1,7 +1,7 @@
 import React from "react"
 import s from './Messeges.module.css'
 
-const Messeges = (props) => {
+const Messages = () => {
     return (
         <div className={s.messeges}>
             <li>Messeges</li>
@@ -20,4 +20,4 @@ const Messeges = (props) => {
         </div>
     )
 }
-export default Messeges;
+export default Messages;
